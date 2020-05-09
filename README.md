@@ -30,5 +30,7 @@ cv2 library loads the image, pytesseract library reads the image and translates 
 - Assign users when there are more than 8 people. Add scroll or search, when there are more than 8 users, it becomes a list with a search). Currently this feature is the one last element I need to get it to work for big calls.
 
 
-# Contribute?
-- Id love for people to contirbute, it would be greatly appreciated!
+# Contributing
+Id love for people to contirbute, it would be greatly appreciated!
+
+Pull requests are welcome.
