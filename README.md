@@ -3,7 +3,7 @@ My first python script, an attempt at a chatbot for zoom.
 
 # Current state?
 - Version 1, not fully complete. (Missing functionality to make it work for big calls, scroll down for details)
-- Currently don't have time to clean up the script. Hoping to clean it up, and python experts please help me clean it up. (I am eager to learn!)
+- Currently don't have time to clean up the script. Hoping to clean it up, and python experts please help me clean it up. (I am eager to learn!) (I made this script in 3 days)
 
 # How it is suppose to work?
 - I generate an array of breakout rooms with users, based on what users type in the chat (I read the autosave zoom file, it auto saves every minute)
